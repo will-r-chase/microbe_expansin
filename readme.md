@@ -1,3 +1,3 @@
 ## Microbial expansin paper scripts
 
-Instructions go here
+This repository contains scripts, figures, and data for the paper "From morphogenesis to pathogenesis: A cellulose loosening protein is one of the most widely distributed tools in nature". Main text figures are located in the "Figures" folder, and main text tables in the "Tables" folder. Supplemental figures, tables, and files are in the "Supplemental" folder. All scripts used in this paper are located in the "Scripts" folder, along with some input files that are needed for the scripts. Note that many figures were edited using Illustrator or other software after rendering the initial figure in R. 
